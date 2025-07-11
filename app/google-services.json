@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055820849361",
+    "project_id": "composefirebasefirestore",
+    "storage_bucket": "composefirebasefirestore.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055820849361:android:9a2d913237a475b579a5f0",
+        "android_client_info": {
+          "package_name": "com.bodakesatish.composefirebasefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAni93MaBTOqlDp5gnbURb3Uopc8FkzAY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
